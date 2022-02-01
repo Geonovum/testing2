@@ -1,1 +1,2 @@
 Dit is om te testen of naamswijzigingen in GH geen conficten geven.
+Daarom is nu deze zin toegevoegd.
